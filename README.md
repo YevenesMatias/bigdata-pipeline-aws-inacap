@@ -1,4 +1,4 @@
-# Pipeline de Big Data de Alta Disponibilidad en AWS (INACAP 2026)
+# Pipeline de Big Data de Alta Disponibilidad en AWS
 
 **Asignatura:** Big Data (TI13025)  
 **Docente:** Paulo Simunovic Oyarzún  
