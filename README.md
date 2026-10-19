@@ -2,7 +2,6 @@
 
 **Asignatura:** Big Data (TI13025)  
 **Evaluación:** Evaluación Sumativa 2
-
 **Docente:** Paulo Simunovic Oyarzún  
 
 ### Integrantes:
