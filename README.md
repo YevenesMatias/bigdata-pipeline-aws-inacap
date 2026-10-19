@@ -9,8 +9,8 @@ Pipeline de Big Data de Alta Disponibilidad en AWS (S3, Glue, Athena, PySpark ML
 **Docente:** Paulo Simunovic Oyarzún  
 
 ### Integrantes:
-* **Matías Yévenes Martínez** (Cloud Architecture & Data Engineering)
-* **Derek Pagels** (Data Analysis & ML Engineering)
+* **Matías Yévenes Martínez** 
+* **Derek Pagels** 
 
 ---
 
