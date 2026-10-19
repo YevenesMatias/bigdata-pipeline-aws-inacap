@@ -1,8 +1,7 @@
 # Pipeline de Big Data de Alta Disponibilidad en AWS (INACAP 2026)
 
 **Asignatura:** Big Data (TI13025)  
-**Evaluación:** Evaluación Sumativa 02 (25%)  
-**Institución:** IP INACAP – Sede Punta Arenas  
+**Evaluación:** Evaluación Sumativa 2 
 **Docente:** Paulo Simunovic Oyarzún  
 
 ### Integrantes:
